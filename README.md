@@ -1,17 +1,11 @@
 <h1 align="center">Hi! I'm Shrey.</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shrey-biswas-907b51211/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+<a href="shreybiswas.bio.link">
+<img src="https://img.shields.io/badge/-Personal Website-blue?style=for-the-badge"/>
 </a>
 
-<a href="https://streaksharn.github.io/">
-<img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge"/>
-</a>
-
-<a href="https://discord.com/users/474237555961757697">
-<img src="https://img.shields.io/badge/-Discord-B7B0F7?style=for-the-badge&logo=discord"/>
-</a>  
 </p>
 
 <br />
