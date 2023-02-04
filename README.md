@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="shreybiswas.bio.link">
+<a href="https://shreybiswas.bio.link">
 <img src="https://img.shields.io/badge/-Personal Website-blue?style=for-the-badge"/>
 </a>
 
